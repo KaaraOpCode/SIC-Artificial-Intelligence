@@ -1,4 +1,4 @@
-# SIC Artificial Intelligence
+# Kaara Code 👽SIC Artificial Intelligence
 Artificial Intelligence course from the Samsung Innovation Campus
 
 ## Contents
